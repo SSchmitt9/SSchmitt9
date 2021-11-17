@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SSchmitt9
+- 👀 I’m interested in pursuing a career in data analytics. Some of the industries I am interested in are technology and sports.
+- 🌱 I’m currently learning SQL, Excel, R, and Python
+- 💞️ I’m looking to collaborate on projects relating to using technology to solve business problems
+- 📫 How to reach me samcschmitt@gmail.com
